@@ -1,0 +1,66 @@
+body {
+  background-color: #ecdbb9;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a:visited {
+  color: #964848;
+}
+
+.common {
+  position: absolute;
+}
+
+.home {
+  right: 80px;
+}
+
+.title {
+  left: 60px;
+  text-decoration: underline;
+  color: rgb(65, 30, 30);
+}
+
+.basebody {
+  top: 60px;
+  right: 750px;
+  color: rgb(111, 59, 59);
+}
+
+.dance {
+  right:70px;
+  top: 100px;
+}
+
+.london {
+  right: 350px;
+  top: 425px;
+}
+
+.portuguese {
+  right: 325px;
+}
+
+.exchangeS {
+  right: 50px;
+  top: 525px;
+}
+
+.youtube {
+  top: 1100px;
+  left: 600px;
+}
+
+.tableau {
+  top: 1095px;
+  height: 400px;
+  width: 500px;
+}
+
+
+.anchor {
+  bottom: 10px;
+  right: 10px;
+  position: fixed;
+  color: white;
+}
